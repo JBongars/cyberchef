@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
+      - hacklas # hacklas is master
 
 permissions:
   contents: read
